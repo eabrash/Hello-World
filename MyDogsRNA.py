@@ -1,3 +1,5 @@
+## MyDogsRNA.py program copy
+
 matureFile = open("C:\Users\Emily\Documents\Insight Fellows Related\Python\Python Files\mature.fa", mode = "rU")
 myDogsRNAFile = open("C:\Users\Emily\Documents\Insight Fellows Related\Python\Python Files\myDogsRNA.txt", mode = "rU")
 myOutputFile = open("C:\\Users\\Emily\\Documents\\Insight Fellows Related\\Python\\Python Files\\myOutput.txt", mode = "w")
